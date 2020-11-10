@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0F0693C0-7146-4C54-8FBB-E81C6CE74E31"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "079B1B78-DB84-4B5E-B49C-2C470AFBDC96"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AnimalsAPI/AnimalsDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "AnimalsDetailViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "079B1B78-DB84-4B5E-B49C-2C470AFBDC96 - e422734cf9ea26b2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AnimalsAPI.AnimalsDetailViewController.__deallocating_deinit"
+                  moduleName = "AnimalsAPI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sam/Desktop/iOS/Homework/code/AnimalsAPI/AnimalsAPI/AnimalsDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "079B1B78-DB84-4B5E-B49C-2C470AFBDC96 - 361342f70df21888"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AnimalsAPI.AnimalsDetailViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; AnimalsAPI.AnimalsDetailViewController"
+                  moduleName = "AnimalsAPI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sam/Desktop/iOS/Homework/code/AnimalsAPI/AnimalsAPI/AnimalsDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "079B1B78-DB84-4B5E-B49C-2C470AFBDC96 - 804a3a4b8af9789a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AnimalsAPI.AnimalsDetailViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; AnimalsAPI.AnimalsDetailViewController"
+                  moduleName = "AnimalsAPI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sam/Desktop/iOS/Homework/code/AnimalsAPI/AnimalsAPI/AnimalsDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "349">
+               </Location>
+               <Location
+                  uuid = "079B1B78-DB84-4B5E-B49C-2C470AFBDC96 - f916a3f1da35c560"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AnimalsAPI.AnimalsDetailViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;AnimalsAPI.AnimalsDetailViewController&gt;"
+                  moduleName = "AnimalsAPI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sam/Desktop/iOS/Homework/code/AnimalsAPI/AnimalsAPI/AnimalsDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "079B1B78-DB84-4B5E-B49C-2C470AFBDC96 - 62b447995a4dfa46"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AnimalsAPI.AnimalsDetailViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;AnimalsAPI.AnimalsDetailViewController&gt;"
+                  moduleName = "AnimalsAPI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sam/Desktop/iOS/Homework/code/AnimalsAPI/AnimalsAPI/AnimalsDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "290">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
