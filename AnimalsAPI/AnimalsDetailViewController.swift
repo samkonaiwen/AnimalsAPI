@@ -16,7 +16,7 @@ class AnimalsDetailViewController: UIViewController {
     @IBOutlet weak var subtypeLabel: UILabel!
     @IBOutlet weak var imageView: UIImageView!
     
-    var animal: Animals!
+    var animal: Animals?
 
     override func viewDidLoad() {
         super.viewDidLoad()

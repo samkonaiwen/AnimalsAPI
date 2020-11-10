@@ -68,7 +68,6 @@ class AnimalsTableViewController: UITableViewController, UISearchBarDelegate {
                    let image = UIImage(data: data) {
                     DispatchQueue.main.async {
                         cell.animalsImageView.image = image
-                        print(data)
                     }
                 }
             }
